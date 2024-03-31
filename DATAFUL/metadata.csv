@@ -1,0 +1,10 @@
+organisation,Election Commission of India
+sectors,"undefined"
+updated_frequency,Yearly
+granularity,"Fiscal Year, Political Party"
+time_saved,6 hours
+source,"Annual audit reports submitted by political parties to ECI"
+source_link,"https://eci.gov.in/candidate-political-parties/annual-audit-reports/annual-audit-reports/"
+time_period,"2017-18 to 2023-24"
+units,"value in indian rupees"
+citation,"Election Commission of India. Electoral Bonds: Year- and Party-wise Income of Political Parties through Electoral Bonds, Grants, Donations and Contributions [Data set]. Dataful. 14717"
